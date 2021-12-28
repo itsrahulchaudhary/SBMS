@@ -1,4 +1,4 @@
-package in.ashokit.dao;
+package in.rahulit.dao;
 
 import org.springframework.stereotype.Repository;
 

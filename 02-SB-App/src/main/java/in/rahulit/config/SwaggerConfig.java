@@ -1,4 +1,4 @@
-package in.ashokit.config;
+package in.rahulit.config;
 
 import org.springframework.context.annotation.Configuration;
 

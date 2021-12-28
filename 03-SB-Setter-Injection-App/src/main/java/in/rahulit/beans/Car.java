@@ -1,4 +1,4 @@
-package in.ashokit.beans;
+package in.rahulit.beans;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

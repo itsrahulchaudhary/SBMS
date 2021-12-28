@@ -1,4 +1,4 @@
-package in.ashokit.beans;
+package in.rahulit.beans;
 
 import org.springframework.stereotype.Component;
 

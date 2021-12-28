@@ -1,9 +1,9 @@
-package in.ashokit.service;
+package in.rahulit.service;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
-import com.ashokit.util.Car;
+import com.rahulit.util.Car;
 
 @Service
 public class UserService {
