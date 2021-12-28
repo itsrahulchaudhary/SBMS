@@ -1,10 +1,10 @@
-package in.ashokit;
+package in.rahulit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import in.ashokit.beans.UserService;
+import in.rahulit.service.UserService;
 
 @SpringBootApplication
 public class Application {
@@ -12,8 +12,9 @@ public class Application {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
 
-		UserService userservice = context.getBean(UserService.class);
-
-		userservice.insertUserData();
+		UserService userService = context.getBean(UserService.class);
+		
+		userService.save();
 	}
+
 }

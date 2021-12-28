@@ -1,9 +1,9 @@
-package in.ashokit.service;
+package in.rahulit.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import in.ashokit.dao.UserDao;
+import in.rahulit.dao.UserDao;
 
 @Service
 public class UserService {

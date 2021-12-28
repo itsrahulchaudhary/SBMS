@@ -1,16 +1,13 @@
-package in.ashokit.beans;
+package in.rahulit.dao;
 
 import org.springframework.stereotype.Repository;
 
 @Repository
 public class UserDao {
 
-	public UserDao() {
-		System.out.println("UserDao::Constructor");
-	}
-
 	public boolean saveUser() {
-		// logic to insert into db
+		// logic to save in db
 		return true;
 	}
+
 }
