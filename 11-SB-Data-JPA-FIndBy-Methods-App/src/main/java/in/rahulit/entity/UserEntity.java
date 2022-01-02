@@ -1,4 +1,4 @@
-package in.ashokit.entity;
+package in.rahulit.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

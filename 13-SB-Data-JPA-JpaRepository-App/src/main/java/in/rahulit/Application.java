@@ -1,4 +1,4 @@
-package in.ashokit;
+package in.rahulit;
 import java.util.List;
 
 import org.springframework.boot.SpringApplication;
@@ -9,8 +9,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
 
-import in.ashokit.entity.UserEntity;
-import in.ashokit.repository.UserRepository;
+import in.rahulit.entity.UserEntity;
+import in.rahulit.repository.UserRepository;
 
 @SpringBootApplication
 public class Application {

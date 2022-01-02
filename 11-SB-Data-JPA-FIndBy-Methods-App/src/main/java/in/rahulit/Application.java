@@ -1,4 +1,4 @@
-package in.ashokit;
+package in.rahulit;
 
  
 import java.util.List;
@@ -8,8 +8,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import in.ashokit.entity.UserEntity;
-import in.ashokit.repository.UserRepository;
+import in.rahulit.entity.UserEntity;
+import in.rahulit.repository.UserRepository;
 
 @SpringBootApplication
 public class Application {

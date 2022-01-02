@@ -1,4 +1,4 @@
-package in.ashokit.repository;
+package in.rahulit.repository;
 
 import java.io.Serializable;
 
@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.transaction.annotation.Transactional;
 
-import in.ashokit.entity.UserEntity;
+import in.rahulit.entity.UserEntity;
 
 public interface UserRepository extends CrudRepository<UserEntity, Serializable>{
 	
