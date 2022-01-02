@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.ashokit</groupId>
-	<artifactId>12-SB-Data-JPA-Custom-Queries</artifactId>
+	<artifactId>10-SB-Data-JPA-App1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>12-SB-Data-JPA-Custom-Queries</name>
+	<name>10-SB-Data-JPA-App1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

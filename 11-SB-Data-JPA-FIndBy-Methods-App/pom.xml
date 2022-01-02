@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.ashokit</groupId>
-	<artifactId>10-SB-Data-JPA-App1</artifactId>
+	<artifactId>11-SB-Data-JPA-FIndBy-Methods-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>10-SB-Data-JPA-App1</name>
+	<name>11-SB-Data-JPA-FIndBy-Methods-App</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
