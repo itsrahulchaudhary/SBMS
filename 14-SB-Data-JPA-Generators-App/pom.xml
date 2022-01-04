@@ -8,10 +8,10 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
-	<artifactId>10-SB-Data-JPA-App1</artifactId>
+	<groupId>in.rahulit</groupId>
+	<artifactId>14-SB-Data-JPA-Generators-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>10-SB-Data-JPA-App1</name>
+	<name>14-SB-Data-JPA-Generators-App</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

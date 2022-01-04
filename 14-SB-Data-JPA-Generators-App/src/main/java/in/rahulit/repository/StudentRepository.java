@@ -1,10 +1,10 @@
-package in.ashokit.repository;
+package in.rahulit.repository;
 
 import java.io.Serializable;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import in.ashokit.entity.Student;
+import in.rahulit.entity.Student;
  
 
 public interface StudentRepository extends JpaRepository<Student, Serializable>{

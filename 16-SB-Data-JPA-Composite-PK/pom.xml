@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.rahulit</groupId>
-	<artifactId>13-SB-Data-JPA-JpaRepository-App</artifactId>
+	<artifactId>16-SB-Data-JPA-Composite-PK</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>13-SB-Data-JPA-JpaRepository-App</name>
+	<name>16-SB-Data-JPA-Composite-PK</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

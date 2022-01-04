@@ -8,7 +8,7 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>in.rahulit</groupId>
 	<artifactId>12-SB-Data-JPA-Custom-Queries</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>12-SB-Data-JPA-Custom-Queries</name>

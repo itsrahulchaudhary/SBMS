@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.rahulit</groupId>
-	<artifactId>13-SB-Data-JPA-JpaRepository-App</artifactId>
+	<artifactId>17-SB-Data-JPA-Time-Stamping</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>13-SB-Data-JPA-JpaRepository-App</name>
+	<name>17-SB-Data-JPA-Time-Stamping</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

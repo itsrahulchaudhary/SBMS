@@ -8,7 +8,7 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>in.rahulit</groupId>
 	<artifactId>11-SB-Data-JPA-FIndBy-Methods-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>11-SB-Data-JPA-FIndBy-Methods-App</name>
