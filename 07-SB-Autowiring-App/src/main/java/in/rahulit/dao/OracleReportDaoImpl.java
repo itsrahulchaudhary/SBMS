@@ -1,8 +1,10 @@
 package in.rahulit.dao;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Repository;
 
 @Repository("oracle")
+@Primary
 public class OracleReportDaoImpl implements ReportDao {
 
 	@Override

@@ -1,0 +1,4 @@
+server:
+  port: 9999
+# 8761 default port 
+eureka:  client:    register-with-eureka: false
