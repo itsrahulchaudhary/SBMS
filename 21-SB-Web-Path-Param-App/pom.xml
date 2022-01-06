@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.rahulit</groupId>
-	<artifactId>22-SB-Web-Path-Param-App</artifactId>
+	<artifactId>21-SB-Web-Path-Param-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>21-SB-Web-Path-Param-App</name>
