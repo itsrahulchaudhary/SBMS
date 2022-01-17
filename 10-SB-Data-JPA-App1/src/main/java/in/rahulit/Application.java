@@ -22,15 +22,14 @@ public class Application {
 		UserRepository userRepository = context.getBean(UserRepository.class);
 		// System.out.println(userRepository.getClass().getName());
 		/*
-		 * UserEntity entity = new UserEntity(); 
-		 * entity.setUserId(101);
-		 * entity.setUname("Ashok"); 
-		 * entity.setEmail("ashok@gmail.com");
-		 * entity.setAge(29);
-		 * 
-		 * userRepository.save(entity);
-		 */
-		
+		UserEntity entity = new UserEntity();
+		entity.setUserId(101);
+		entity.setUname("Ashok");
+		entity.setEmail("ashok@gmail.com");
+		entity.setAge(29);
+		userRepository.save(entity);
+		*/
+	 
 		System.out.println("------------Save List of entity----------");
 		// List of entity
 		UserEntity entity1 = new UserEntity();
@@ -94,6 +93,7 @@ public class Application {
 		System.out.println("-----------record deleted from table----------");
 		// delete by Id
 		userRepository.deleteById(101);
+		
 	}
 
 }

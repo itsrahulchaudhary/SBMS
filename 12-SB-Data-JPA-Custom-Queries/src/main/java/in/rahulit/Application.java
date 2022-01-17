@@ -30,11 +30,11 @@ public class Application {
 		System.out.println(findUserById);
 		
 		System.out.println("----------------update------------------------------------");
-		int updateById = userRepository.updateById(105, "Sujeet");
+		int updateById = userRepository.updateById(104, "Sujeet");
 		System.out.println("updated "+updateById);
 		
 		System.out.println("----------------insert------------------------------------");
-		int insert = userRepository.insert(111, 23, "abc1@gmail.com", "abc1");
+		int insert = userRepository.insert(112, 23, "abc1@gmail.com", "abc1");
 		System.out.println(insert);
 		
 		System.out.println("----------------delete------------------------------------");

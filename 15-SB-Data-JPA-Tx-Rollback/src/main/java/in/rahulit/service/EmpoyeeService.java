@@ -17,7 +17,7 @@ public class EmpoyeeService {
 	@Autowired
 	private AddressRepository addressRepository;
 
-	//@Transactional(rollbackFor = Exception.class)
+	@Transactional(rollbackFor = Exception.class)
 	public void saveData() {
 		Employee emp = new Employee();
 		emp.setEmpId(103);
