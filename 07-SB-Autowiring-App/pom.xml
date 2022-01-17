@@ -8,7 +8,7 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>in.rahulit</groupId>
 	<artifactId>07-SB-Autowiring-App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>07-SB-Autowiring-App</name>

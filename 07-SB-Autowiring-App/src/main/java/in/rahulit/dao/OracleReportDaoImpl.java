@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Repository;
 
 @Repository("oracle")
-@Primary
+//@Primary
 public class OracleReportDaoImpl implements ReportDao {
 
 	@Override

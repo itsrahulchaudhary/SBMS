@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import com.rahulit.util.Car;
 
 @SpringBootApplication
-@ComponentScan(basePackages = { "com.ashokit", "in.ashokit" })
+@ComponentScan(basePackages = { "com.rahulit", "in.rahulit" })
 public class Application {
 
 	public static void main(String[] args) {
