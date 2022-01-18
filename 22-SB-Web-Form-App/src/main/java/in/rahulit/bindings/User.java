@@ -1,8 +1,4 @@
 package in.rahulit.bindings;
-
- 
-
- 
 public class User {
 	private String uname;
 	private String pwd;
