@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.rahulit</groupId>
-	<artifactId>61-SpringBoot-Security-App2</artifactId>
+	<artifactId>61-SpringBoot-Security-InMemoryAuthentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>61-SpringBoot-Security-App2</name>
+	<name>61-SpringBoot-Security-InMemoryAuthentication</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
