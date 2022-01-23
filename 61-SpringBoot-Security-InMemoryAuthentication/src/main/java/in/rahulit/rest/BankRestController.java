@@ -8,7 +8,7 @@ public class BankRestController {
 
 	@GetMapping("/home")
 	public String home() {
-		String msg = "Welcome to Ashok IT Bank..!!";
+		String msg = "Welcome to Indian IT Bank..!!";
 		return msg;
 	}
 

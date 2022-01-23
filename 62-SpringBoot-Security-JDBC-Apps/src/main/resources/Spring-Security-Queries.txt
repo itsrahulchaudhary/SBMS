@@ -9,7 +9,7 @@ create table user_dtls
  
 );
 
-INSERT INTO user values(101,'devs','$2a$10$qnOB2PH1CqRvw8f5epvHzOlrounRkVGi.Y5ho6ENdmj/C1DmPdAsy','ADMIN',1);
+INSERT INTO user values(101,'devs','$2a$10$5gU1a.BQDV3qitOufz8.Auj7DBMUQDNiKsbUnoone5aAkJoQ0726y','ADMIN',1);
 INSERT INTO user values(102,'ns','$2a$10$mmUMC5ZwoVnEQYV7/R6m.uWWtj7EiIo3lKasBObkOCc12huVUWpMC','EMPLOYEE',1);
 INSERT INTO user values(103,'vs','$2a$10$kqEC/fhQ7SNDhnncOQ9pb.yXXxJ/c7a1SQx2QPNZ.47fUmvF3Wb.i','MANAGER',1);
 

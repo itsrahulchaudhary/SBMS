@@ -8,7 +8,7 @@ public class WelcomeRestController {
 
 	@GetMapping("/welcome")
 	public String getMsg() {
-		String msg = "Welcome to Ashok IT...!!";
+		String msg = "Welcome to Java World...!!";
 		return msg;
 	}
 }
