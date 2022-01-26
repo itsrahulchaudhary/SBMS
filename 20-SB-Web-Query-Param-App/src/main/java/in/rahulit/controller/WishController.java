@@ -11,7 +11,7 @@ public class WishController {
 	@GetMapping("/welcome")
 	public String welcomeMsg(@RequestParam("name") String name, Model model) {
 		
-		String msgTxt = "Hi "+name+", Welcome to AshokIT...";
+		String msgTxt = "Hi "+name+", Welcome to India ...";
 		
 		model.addAttribute("msg", msgTxt);
 		

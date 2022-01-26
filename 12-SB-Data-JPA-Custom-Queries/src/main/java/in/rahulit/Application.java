@@ -34,11 +34,11 @@ public class Application {
 		System.out.println("updated "+updateById);
 		
 		System.out.println("----------------insert------------------------------------");
-		int insert = userRepository.insert(112, 23, "abc1@gmail.com", "abc1");
+		int insert = userRepository.insert(119, 23, "abc1@gmail.com", "abc1");
 		System.out.println(insert);
 		
 		System.out.println("----------------delete------------------------------------");
-		int delete = userRepository.delete(102);
+		int delete = userRepository.delete(111);
 		System.out.println(delete);
 	}
 

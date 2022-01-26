@@ -92,7 +92,7 @@ public class Application {
 		
 		System.out.println("-----------record deleted from table----------");
 		// delete by Id
-		userRepository.deleteById(101);
+		userRepository.deleteById(102);
 		
 	}
 
